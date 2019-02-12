@@ -1,0 +1,11 @@
+Package: com.yourepo.mohadu31.doodoo
+Name: doodoo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: doodoo For Snapchat
+Depiction: https://mohadu31.com/pack/doodoo
+Author: FahadAljuwausri
+Section: SnapDzMoha
+Maintainer: Mohadu313
+Depends: firmware (>= 5.0), mobilesubstrate
+
